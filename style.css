@@ -469,7 +469,7 @@ footer .col .logo{
     box-sizing: border-box;
     margin: 8px 0;
     background-color: #f8f8f8;
-    color: white;
+    color: black;
   }
   
   .feedback input[type="reset"], .feedback input[type="submit"] {
